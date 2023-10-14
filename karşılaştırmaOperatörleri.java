@@ -16,8 +16,9 @@ public class Degiskenler {
         System.out.println(4>=4); // true çıktısı alırız eşit veya büyük şartından "eşit"i sağlıyor
         System.out.println(2<3);  // true çıktısı
         System.out.println(3<=3); // true çıktısı alırız eşitlik şartını sağlar
-        System.out.println("yagmur" == "yagmur");
-        System.out.println("yagmur" != "yamur");
+        System.out.println("yagmur" == "yagmur"); // true çıktısını alırız
+        System.out.println("yagmur" != "yamur");  // true çıktısını alırız
+        // string değerlerde <,<=,>,>= gibi karşılaştırmalar yapamayız sadece eşitlik karşılaştırması yapabiliriz.
        
     }
 }
