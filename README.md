@@ -1,1 +1,1 @@
-Java full
+Java 
